@@ -20,7 +20,4 @@
           <a href="pagina 3.html">pagina 3</a></li>
           <a href="pagina 4.html">pagina 4</a></li> 
           <a href="pagina 5.html">pagina 5</a></li>
-</BODY>
-</HTML>
-</HEAD>
 
