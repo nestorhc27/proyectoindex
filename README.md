@@ -15,7 +15,7 @@
 <P>
 <img src="cebcedrallogo.jpg">
    <ul>
-          <a href="pagina1.html">pagina 1</a>
+          <a href="file:///E:/pagina1.html">pagina 1</a>
           <a href="pagina 2.html">pagina 2</a>
           <a href="pagina 3.html">pagina 3</a>
           <a href="pagina 4.html">pagina 4</a> 
