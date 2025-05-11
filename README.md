@@ -1,8 +1,6 @@
 # proyectoindex
 <HTML>
 <HEAD>
-<TITLE>PORTADAINDEX</TITLE>
-<HEAD>
 
 <BODY>
   <p> <marquee>BIENVENIDO A NUESTRA PAGINA</marquee>
