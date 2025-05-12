@@ -13,7 +13,7 @@
 <P>PROFR. RAMIRO REYNA TORRES 
 <P>602
 <P>
-<img src="cebcedrallogo.jpg">
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJvXTV_RGtLKkZYQYkoIw1BuZAOL3FHGYSPw&s">
    <ul>
           <a href="pagina1.html">pagina 1</a>
           <a href="pagina 2.html">pagina 2</a>
