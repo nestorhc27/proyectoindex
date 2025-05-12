@@ -18,6 +18,6 @@
           <a href="https://nestorhc27.github.io/pagina1/">pagina 1</a>
           <a href="https://nestorhc27.github.io/pagina2/">pagina 2</a>
           <a href="https://nestorhc27.github.io/pagina3/">pagina 3</a>
-          <a href="https://nestorhc27.github.io/pagina4/l">pagina 4</a> 
+          <a href="https://nestorhc27.github.io/pagina4/">pagina 4</a> 
           <a href="pagina 5.html">pagina 5</a>
 
