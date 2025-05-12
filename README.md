@@ -15,7 +15,7 @@
 <P>
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJvXTV_RGtLKkZYQYkoIw1BuZAOL3FHGYSPw&s">
    <ul>
-          <a href="pagina1.html">pagina 1</a>
+          <a href="https://nestorhc27.github.io/pagina2/">pagina 1</a>
           <a href="pagina 2.html">pagina 2</a>
           <a href="pagina 3.html">pagina 3</a>
           <a href="pagina 4.html">pagina 4</a> 
